@@ -1,0 +1,17 @@
+# Ignorar directorios de otros proyectos
+ProyectoMicroservicios/
+animeapi/
+libroapi/
+apagado-pc/
+gestor-prestamos-herramientas/
+gestor-tareas/
+inventario-microservicio/
+reproductor-multimedia/
+
+# Ignorar archivos específicos
+Proyectos a Realizar Java_Spring.txt
+Proyectos a Realizar.txt
+ProyectosJavaJr.txt
+
+# Ignorar archivos zip
+*.zip
